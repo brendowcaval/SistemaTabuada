@@ -1,0 +1,15 @@
+C:\projetos\SistemaTabuada\bin\Debug\net6.0\SistemaTabuada.exe
+C:\projetos\SistemaTabuada\bin\Debug\net6.0\SistemaTabuada.deps.json
+C:\projetos\SistemaTabuada\bin\Debug\net6.0\SistemaTabuada.runtimeconfig.json
+C:\projetos\SistemaTabuada\bin\Debug\net6.0\SistemaTabuada.dll
+C:\projetos\SistemaTabuada\bin\Debug\net6.0\SistemaTabuada.pdb
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.csproj.AssemblyReference.cache
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.AssemblyInfoInputs.cache
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.AssemblyInfo.cs
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.csproj.CoreCompileInputs.cache
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.dll
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\refint\SistemaTabuada.dll
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.pdb
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\SistemaTabuada.genruntimeconfig.cache
+C:\projetos\SistemaTabuada\obj\Debug\net6.0\ref\SistemaTabuada.dll
